@@ -1,0 +1,3 @@
+dd_lunch_combo elix_griffin-userdebug
+add_lunch_combo elix_griffin-user
+add_lunch_combo elix_griffin-eng
